@@ -114,7 +114,7 @@ Authorization: Bearer <token>
 ## MongoDB Connection
 Your connection string is configured in `.env`:
 ```
-mongodb+srv://portfolio:giri@portfolio.sdlegg2.mongodb.net/?appName=portfolio
+
 ```
 
 ## Migration Notes
